@@ -129,9 +129,3 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📬 Contact
-
-**Siddharth Kushwaha**
-- 📧 [your-email@example.com](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
